@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+初めてのRails学習用
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+こちらのYouTube動画で、全体像掴みながらの学習
+https://youtube.com/playlist?list=PL7dhNz439lnRzd3hEZLrwCGe9gO6Y4oMG
