@@ -1,0 +1,16 @@
+current directory: /Users/toki/MyDevelop/sample-rails/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/Users/toki/.rbenv/versions/2.7.2/bin/ruby -I /Users/toki/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210307-33772-1g5tfmx.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/toki/MyDevelop/sample-rails/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Users/toki/MyDevelop/sample-rails/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/toki/MyDevelop/sample-rails/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210307-33772-1xybc3c
